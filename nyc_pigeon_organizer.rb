@@ -31,6 +31,6 @@ def nyc_pigeon_organizer(data)
     end
   end
   answerAr
-  
+  binding.pry
   
 end
